@@ -26,7 +26,7 @@ Manage the end-to-end delivery of a Wi-Fi 5 broadband device project, from proje
 
 ## Testing and Validation
 
-- Personally performed major test-case validations covering Wi-Fi functionality, ONT functionality, firmware features, and IoT functionality.
+- Personally performed major test-case validations covering Wi-Fi functionality, ONT functionality, firmware features, IoT functionality, and R1 Mesh scenarios.
 - Validated device behaviour against project requirements and customer-specific feature expectations.
 - Communicated validation findings and worked with the relevant technical teams to address issues according to severity.
 - Combined hands-on product validation with project coordination to support delivery quality and customer acceptance.
