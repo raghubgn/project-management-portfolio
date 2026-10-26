@@ -42,18 +42,23 @@ Selected Achievements
 Portfolio Projects
 
 1. [Wi-Fi 5 Broadband Device Deployment](case-studies/wifi-5-device-deployment.md)
+
 Status: Initial delivery completed
 - Managed project delivery within two months.
 - Coordinated requirements, firmware customisation, engineering, QA, vendors, and customer stakeholders.
 - Supported deployment of 1M+ devices with approved firmware.
 - Repeat purchases and subsequent deployments using the approved firmware continue.
+  
 2. [Wi-Fi 6 Broadband Device Deployment](case-studies/wifi-6-device-deployment.md)
+
 Status: Completed
 - Managed delivery over approximately four months.
 - Coordinated engineering, QA, firmware customisation, validation, and issue resolution.
 - Supported deployment of approximately 500,000 devices within the planned timeline.
 - The Wi-Fi 6 device portfolio uses the OpenWrt platform.
+  
 3. OpenWrt-Based Wi-Fi 6 Agent Integration
+
 Status: In Progress
 - Coordinating an ongoing Wi-Fi 6 agent integration initiative with a telecom customer.
 - Working with customer DE and SDE stakeholders, internal engineering and QA teams, and the third-party agent integration team.
