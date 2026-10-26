@@ -69,7 +69,7 @@ Status: In Progress
 - Working with customer DE and SDE stakeholders, internal engineering and QA teams, and the third-party agent integration team.
 - Tracking requirements, milestones, technical dependencies, risks, issues, and cross-team actions.
 
-4. International ONT Interoperability and IoT Validation
+4. [International ONT Interoperability and IoT Validation](case-studies/international-ont-iot-validation.md)
 
 Status: Lab validation completed
 
