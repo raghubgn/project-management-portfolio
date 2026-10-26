@@ -65,8 +65,8 @@ Status: Completed
 
 Status: In Progress
 
-- Coordinating an agent integration initiative proposed by BSNL.
-- Working directly with BSNL's vendor-side DE contacts, internal engineering and QA teams, and the separate agent integration team.
+- Coordinating an ongoing Wi-Fi 6 agent integration initiative with a telecom customer.
+- Working with customer DE and SDE stakeholders, internal engineering and QA teams, and the third-party agent integration team.
 - Tracking requirements, milestones, technical dependencies, risks, issues, and cross-team actions.
 
 4. International ONT Interoperability and IoT Validation
