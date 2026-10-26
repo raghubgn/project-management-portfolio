@@ -43,7 +43,7 @@ Selected Achievements
 
 Portfolio Projects
 
-1. Wi-Fi 5 Broadband Device Deployment
+1. [Wi-Fi 5 Broadband Device Deployment](case-studies/wifi-5-device-deployment.md)
 
 Status: Initial delivery completed
 
@@ -52,7 +52,7 @@ Status: Initial delivery completed
 - Supported deployment of 1M+ devices with approved firmware.
 - Repeat purchases and subsequent deployments using the approved firmware continue.
 
-2. Wi-Fi 6 Broadband Device Deployment
+2. [Wi-Fi 6 Broadband Device Deployment](case-studies/wifi-6-device-deployment.md)
 
 Status: Completed
 
