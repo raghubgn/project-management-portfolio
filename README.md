@@ -52,7 +52,7 @@ I manage technical projects from planning through engineering coordination, inte
 - Supported deployment of 1M+ devices with approved firmware.
 - Repeat purchases and subsequent deployments using the approved firmware continue.
 
-[Read the Wi-Fi 5 Case Study](wifi-5-device-deployment.md)
+[**Read the Wi-Fi 5 Case Study**](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/wifi-5-device-deployment.md)
 
 ### 2. Wi-Fi 6 Broadband Device Deployment
 
@@ -63,7 +63,7 @@ I manage technical projects from planning through engineering coordination, inte
 - Supported deployment of approximately 500,000 devices within the planned timeline.
 - The Wi-Fi 6 device portfolio uses the OpenWrt platform.
 
-[Read the Wi-Fi 6 Case Study](wifi-6-device-deployment.md)
+[**Read the Wi-Fi 6 Case Study**](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/wifi-6-device-deployment.md)
 
 ### 3. OpenWrt-Based Wi-Fi 6 AI Agent Integration
 
@@ -77,7 +77,7 @@ I manage technical projects from planning through engineering coordination, inte
 - Coordinated technical assessments of potential device performance and RAM-consumption impacts arising from integration changes.
 - Coordinated final binary delivery, release notes, customer acceptance, and production deployment for both integrations.
 
-[Read the AI Agent Integration Case Study](openwrt-ai-agent-integration.md)
+[**Read the AI Agent Integration Case Study**](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/openwrt-ai-agent-integration.md)
 
 ### 4. International ONT Interoperability and IoT Validation
 
@@ -88,7 +88,7 @@ I manage technical projects from planning through engineering coordination, inte
 - Collaborated with customer engineers during lab validation.
 - Discussions for the next phase are ongoing. Customer and vendor names are omitted for confidentiality.
 
-[Read the International ONT Validation Case Study](international-ont-iot-validation.md)
+[**Read the International ONT Validation Case Study**](https://github.com/raghubgn/project-management-portfolio/blob/main/case-studies/international-ont-iot-validation.md)
 
 ## Certifications
 
