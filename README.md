@@ -58,7 +58,9 @@ Status: In Progress
 - Coordinating an ongoing Wi-Fi 6 agent integration initiative with a telecom customer.
 - Working with customer DE and SDE stakeholders, internal engineering and QA teams, and the third-party agent integration team.
 - Tracking requirements, milestones, technical dependencies, risks, issues, and cross-team actions.
+  
 4. [International ONT Interoperability and IoT Validation](case-studies/international-ont-iot-validation.md)
+
 Status: Lab validation completed; next-phase discussions ongoing
 - Coordinated international customer engagement and technical discussions.
 - Supported IoT validation of ONTs in the customer's existing OLT environment.
