@@ -8,21 +8,23 @@ PMP-certified Technical Project Manager with 10 years of experience in telecommu
 
 ## 👨‍💼 About Me
 
-I drive technical project delivery through structured planning, cross-functional coordination, engineering alignment, integration, validation, customer acceptance, and production deployment. My experience spans firmware delivery, customer-specific customization, technical dependency management, release readiness, and coordination across engineering, QA, vendors, factory operations, and customers.
+I drive end-to-end technical project delivery through structured planning, cross-functional coordination, engineering alignment, integration, validation, release readiness, customer acceptance, and production deployment.
 
-My approach combines delivery governance, proactive risk management, transparent communication, and continuous stakeholder alignment to achieve project milestones and customer commitments.
+My experience spans regional South Indian broadband device programs and ongoing international customer engagements. I coordinate across engineering, QA, chipset vendors, manufacturing teams, customer engineering teams, and external technology partners to manage technical dependencies, risks, milestones, and delivery commitments.
+
+My approach combines delivery governance, proactive risk management, transparent communication, and stakeholder alignment to support project milestones and customer requirements.
 
 ## 🎯 Core Competencies
 
 - Technical Project and Program Management
-- Project Planning, Scheduling, and Delivery Governance
+- End-to-End Project Planning, Scheduling, and Delivery Governance
 - Software Development Lifecycle (SDLC) Coordination
 - Product Lifecycle and Firmware Release Management
 - Risk, Assumption, Issue, and Dependency (RAID) Management
-- Stakeholder and Vendor Management
-- Cross-Functional Team Leadership and Resource Planning
+- Stakeholder Communication and Escalation Management
+- Cross-Functional Team Leadership and Vendor Coordination
+- Resource, Scope, Timeline, Budget, and Change Management
 - Agile, Scrum, and Waterfall Methodologies
-- Scope, Timeline, Budget, and Change Management
 - QA Coordination, Integration Testing, and Customer Acceptance
 - Release Readiness and Production Deployment
 - Process Improvement and Project Reporting
@@ -30,32 +32,36 @@ My approach combines delivery governance, proactive risk management, transparent
 ## 🌐 Telecom and Technical Domain
 
 - FTTH/GPON and Broadband Customer Premises Equipment (CPE)
+- Wi-Fi 5 and Wi-Fi 6 Broadband Device Programs
 - OpenWrt-Based Wi-Fi 6 Devices
-- Wi-Fi 5 and Wi-Fi 6 Device Programs
 - ONT/OLT Interoperability and Network Deployment
-- Firmware Development Coordination and Customer-Specific Customization
-- Third-Party Agent and AI-Agent Integration Coordination
-- Chipset Vendor, SDK, and Kernel Dependency Coordination
-- TR-069, TR-369, and TR-181
-- HLD/LLD Documentation and Network Delivery
+- Firmware Delivery and Customer-Specific Customization
+- Chipset Vendor, SDK, Kernel, and Driver-Level Dependency Coordination
+- Mesh Networking and SDK Integration
+- Third-Party AI-Agent Integration for Value-Added Services (VAS) and Analytics
 - IoT Validation in Customer Network Environments
+- TR-069, TR-369, and TR-181 Technical Coordination
+- High-Level Design (HLD) and Low-Level Design (LLD) Documentation
 
-## 🏆 Selected Achievements
+## 🏆 Selected Achievements and Business Impact
 
-![Program Value](https://img.shields.io/badge/Program_Value-INR_800M%2B-0A66C2?style=flat-square)
 ![Device Scale](https://img.shields.io/badge/Device_Deployments-1M%2B-218739?style=flat-square)
 ![Schedule Improvement](https://img.shields.io/badge/Schedule_Slippage_Reduction-40%25-6C63FF?style=flat-square)
 ![UAT](https://img.shields.io/badge/UAT_Acceptance-100%25-218739?style=flat-square)
+![Regional Business](https://img.shields.io/badge/Regional_Business-₹100_Crore_Annual_Sales-0A66C2?style=flat-square)
 
-- Delivered programs valued at INR 800M+.
-- Supported device deployments exceeding 1M units.
-- Reduced project schedule slippage by 40%.
-- Coordinated delivery activities supporting 100% UAT acceptance across OLT/ONT deployments.
-- Contributed to reducing firmware acceptance timelines by approximately 20% through AI-agent integration efforts.
+- Supported broadband device deployments exceeding 1 million units across multiple customers.
+- Contributed to a 40% reduction in project schedule slippage through structured planning and delivery governance.
+- Coordinated delivery activities supporting 100% UAT acceptance across relevant OLT/ONT deployment programs.
+- Contributed to approximately 20% shorter firmware acceptance timelines through AI-agent integration initiatives.
+- Coordinated major South Indian broadband device programs supporting a regional business that generated approximately ₹100 crore in annual sales over the last three years.
+- Coordinated regional project delivery while supporting technical discussions and validation activities for ongoing international customer engagements.
+
+*Business sales figures describe the regional business context and are distinct from the value of individual projects.*
 
 ## 🚀 Portfolio Projects
 
-Explore selected case studies showcasing technical project planning, delivery governance, stakeholder management, firmware lifecycle coordination, technical integration, risk management, and release delivery.
+These case studies demonstrate technical project planning, delivery governance, cross-functional coordination, firmware lifecycle management, integration, validation, and release delivery.
 
 ### 1. Wi-Fi 5 Broadband Device Deployment
 
@@ -67,9 +73,9 @@ Explore selected case studies showcasing technical project planning, delivery go
 
 - Coordinated project planning, customer requirements, firmware customization, engineering, QA, vendors, and customer stakeholders.
 - Managed delivery milestones, technical dependencies, integration activities, and release readiness.
-- Coordinated firmware delivery and deployment activities supporting 1M+ devices across multiple customers.
-- Supported ongoing deployments using approved firmware and coordinated subsequent delivery requirements.
-- Coordinated additional AI-agent integration scope through collaboration with device engineering, chipset, partner development, and QA teams.
+- Coordinated firmware delivery and deployment activities supporting more than 1 million devices across multiple customers.
+- Coordinated ongoing firmware delivery requirements for subsequent device deployments.
+- Coordinated additional AI-agent integration scope with device engineering, chipset, partner development, and QA teams.
 
 [**📘 Read the Wi-Fi 5 Case Study →**](case-studies/wifi-5-device-deployment.md)
 
@@ -83,8 +89,8 @@ Explore selected case studies showcasing technical project planning, delivery go
 
 - Coordinated engineering, QA, firmware customization, validation, and issue resolution.
 - Managed delivery dependencies and customer-specific requirements across technical stakeholders.
-- Supported deployment of approximately 500,000 devices within the planned delivery period.
-- Coordinated delivery activities for Wi-Fi 6 devices based on the OpenWrt platform.
+- Supported deployment of approximately 500,000 devices.
+- Coordinated firmware delivery, release readiness, and customer-facing project activities for the OpenWrt-based platform.
 
 [**📘 Read the Wi-Fi 6 Case Study →**](case-studies/wifi-6-device-deployment.md)
 
@@ -99,7 +105,7 @@ Explore selected case studies showcasing technical project planning, delivery go
 - Coordinated integration activities from initial engagement with AI-agent teams through final binary delivery.
 - Aligned integration requirements, software changes, upgrades, and driver-level dependencies across agent and device development teams.
 - Coordinated functionality testing, validation activities, and issue follow-up with the AI-agent QA team.
-- Facilitated technical assessments of potential device performance and RAM-consumption impacts arising from integration changes.
+- Facilitated technical assessments of potential device performance, RAM consumption, and stability impacts arising from integration changes.
 - Coordinated final binary delivery, release notes, customer acceptance activities, and production deployment for both integrations.
 
 [**📘 Read the AI-Agent Integration Case Study →**](case-studies/openwrt-ai-agent-integration.md)
@@ -133,8 +139,9 @@ Explore selected case studies showcasing technical project planning, delivery go
 |---|---|
 | Project Management | Jira, ClickUp, Microsoft Project |
 | Collaboration and Reporting | Microsoft Teams, SharePoint, Excel Dashboards |
-| Networking | FTTH/GPON, ONT/OLT, Broadband CPE, OpenWrt |
-| Technical Coordination | Firmware Delivery, Integration Testing, Interoperability Validation, TR-069, TR-369, TR-181 |
+| Networking | FTTH/GPON, ONT/OLT, Broadband CPE, Wi-Fi 5/6, OpenWrt |
+| Firmware and Integration | Firmware Delivery, SDK Dependencies, Driver-Level Coordination, AI-Agent Integration |
+| Validation and Delivery | Integration Testing, Interoperability Validation, QA Coordination, Customer Acceptance, Release Notes |
 
 ## 💼 Professional Focus
 
@@ -146,6 +153,8 @@ Explore selected case studies showcasing technical project planning, delivery go
 
 Technical Project Management | Program Delivery | Product Lifecycle Management | SDLC Coordination | Telecom and Broadband | Vendor Management | Process Improvement | Cross-Functional Leadership
 
+Interested in Technical Project Manager, Technical Program Manager, Broadband Product Delivery, Firmware Program Management, and Technical Delivery Leadership opportunities.
+
 ## 📬 Contact
 
 - **LinkedIn:** [Raghavendra BN](https://linkedin.com/in/raghavendra-bn)
@@ -153,4 +162,4 @@ Technical Project Management | Program Delivery | Product Lifecycle Management |
 
 ---
 
-*This portfolio presents selected project experience, technical coordination, and delivery outcomes.*
+*Driving technical delivery through structured execution, cross-functional collaboration, and program leadership.*
