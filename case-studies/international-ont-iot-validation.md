@@ -5,65 +5,76 @@
 ![Interoperability](https://img.shields.io/badge/Network-Huawei_OLT-6C63FF?style=flat-square)
 ![Scope](https://img.shields.io/badge/Focus-IoT_Validation-B96A08?style=flat-square)
 
-## Project Overview
+## 1. Project Overview
 
 Coordinated an international telecom customer engagement focused on validating a GX-based OpenWrt Wi-Fi 6 ONT for interoperability with the customer's existing Huawei OLT environment and IoT functionality.
 
-The engagement involved direct technical discussions with customer engineers, lab validation activities, and coordination of follow-up actions for the next project phase.
+Managed stakeholder coordination, technical discussions, lab validation activities, dependency follow-ups, and alignment between customer engineers and internal technical teams. The engagement completed its lab validation phase, with discussions ongoing for the next project phase.
 
-## Project Objectives
+## 2. Project Objectives
 
-- Validate ONT interoperability within the customer's existing Huawei OLT environment.
-- Coordinate IoT functionality validation using the GX-based OpenWrt Wi-Fi 6 ONT platform.
-- Align customer engineers and internal technical teams on validation activities and findings.
-- Track technical follow-ups and support planning for the next phase.
+- Coordinate ONT–OLT interoperability validation within the customer's existing Huawei OLT environment.
+- Plan and coordinate IoT functionality validation using the GX-based OpenWrt Wi-Fi 6 ONT platform.
+- Align customer expectations, technical requirements, and lab validation activities with relevant engineering stakeholders.
+- Track technical dependencies, validation progress, outstanding actions, and next-phase discussions.
 
-## Scope and Technical Environment
+## 3. Scope and Technical Environment
 
 | Area | Description |
 |---|---|
 | Device platform | GX-based OpenWrt Wi-Fi 6 ONT |
 | Network environment | Existing Huawei OLT environment |
-| Validation focus | ONT–OLT interoperability and IoT functionality |
-| Engagement | International customer technical collaboration and lab validation |
-| Current status | Lab validation completed; next-phase discussions ongoing |
+| Validation scope | ONT–OLT interoperability and IoT functionality |
+| Stakeholders | International customer engineers and internal technical teams |
+| Delivery approach | Technical coordination, lab validation, and stakeholder follow-up |
+| Project status | Lab validation completed; next-phase discussions ongoing |
 
-## Technical Project Management Responsibilities
+## 4. Technical Project Management Responsibilities
 
-### International Customer Coordination
+### 4.1 Project Planning and Coordination
 
-- Coordinated technical discussions with international customer engineers.
-- Supported alignment between customer expectations and lab validation activities.
-- Facilitated technical follow-ups and communication across stakeholders.
+- Coordinated lab validation activities and aligned technical stakeholders on project objectives and validation priorities.
+- Facilitated technical discussions with international customer engineers to clarify expectations and coordinate planned activities.
+- Tracked progress, pending actions, technical dependencies, and follow-ups to maintain delivery alignment.
 
-### Interoperability and IoT Validation
+### 4.2 Stakeholder and Cross-Functional Management
 
-- Coordinated lab activities for validating the ONT in the customer's Huawei OLT environment.
-- Supported IoT functionality validation using the GX-based OpenWrt Wi-Fi 6 ONT.
-- Collaborated with customer engineers to review validation progress and identify follow-up actions.
+- Served as a coordination point between international customer engineers and internal technical stakeholders.
+- Maintained communication on validation progress, technical observations, and outstanding follow-up activities.
+- Aligned stakeholders on action items and next steps arising from lab validation discussions.
 
-### Delivery and Stakeholder Management
+### 4.3 Technical Integration and Validation Coordination
 
-- Tracked validation activities, technical dependencies, and outstanding follow-ups.
-- Coordinated communication between customer and technical stakeholders.
-- Supported discussions on next-phase activities based on the completed lab validation.
+- Coordinated validation of the GX-based OpenWrt Wi-Fi 6 ONT within the customer's Huawei OLT environment.
+- Organized technical follow-ups related to ONT–OLT interoperability and IoT functionality validation.
+- Collaborated with customer engineers and relevant technical teams to review progress and coordinate resolution of validation-related follow-ups.
 
-## Outcomes
+### 4.4 Risk, Dependency, and Delivery Tracking
+
+- Tracked technical dependencies and outstanding validation actions that could affect subsequent project activities.
+- Coordinated stakeholder follow-ups to maintain visibility of open items and required next steps.
+- Supported delivery planning for the next phase based on the outcomes and follow-up discussions from lab validation.
+
+## 5. Project Outcomes
 
 - Completed the planned lab validation engagement.
-- Supported interoperability validation of the GX-based OpenWrt Wi-Fi 6 ONT with the Huawei OLT environment.
-- Coordinated IoT validation activities with international customer engineers.
-- Established follow-up discussions for the next project phase.
+- Coordinated ONT–OLT interoperability validation involving the GX-based OpenWrt Wi-Fi 6 ONT and Huawei OLT environment.
+- Coordinated IoT validation activities and technical discussions with international customer engineers.
+- Maintained stakeholder alignment on outstanding follow-ups and next-phase planning.
 
-## Project Status
+## 6. Project Status
 
 **Lab validation completed. Next-phase discussions are ongoing.**
 
-## TPM Competencies Demonstrated
+The completed lab engagement established a basis for continued technical discussions and planning of subsequent activities.
 
-- International Customer and Stakeholder Coordination
-- Technical Project Planning and Follow-Up
-- ONT/OLT Interoperability Coordination
-- IoT Integration Validation
-- Cross-Functional Technical Communication
-- Dependency Tracking and Delivery Governance
+## 7. TPM Competencies Demonstrated
+
+- Technical Project Planning and Execution Coordination
+- International Customer and Stakeholder Management
+- Cross-Functional Engineering Coordination
+- Technical Integration and Validation Management
+- Risk, Issue, and Dependency Tracking
+- Action Item and Milestone Follow-Up
+- Delivery Governance and Status Communication
+- Technical Readiness and Next-Phase Planning
