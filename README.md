@@ -38,6 +38,7 @@ My approach combines delivery governance, proactive risk management, transparent
 - Chipset Vendor, SDK, and Kernel Dependency Coordination
 - TR-069, TR-369, and TR-181
 - HLD/LLD Documentation and Network Delivery
+- IoT Validation in Customer Network Environments
 
 ## 🏆 Selected Achievements
 
@@ -106,15 +107,18 @@ Explore selected case studies showcasing technical project planning, delivery go
 ### 4. International ONT Interoperability and IoT Validation
 
 ![Status](https://img.shields.io/badge/Status-Lab_Validation_Completed-218739?style=flat-square)
-![Domain](https://img.shields.io/badge/Focus-ONT_Interoperability-0A66C2?style=flat-square)
-![Technology](https://img.shields.io/badge/Scope-IoT_Validation-6C63FF?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-GX_OpenWrt_Wi--Fi_6_ONT-0A66C2?style=flat-square)
+![Network](https://img.shields.io/badge/Network-Huawei_OLT-6C63FF?style=flat-square)
+![Scope](https://img.shields.io/badge/Focus-IoT_Validation-B96A08?style=flat-square)
 
-**Project focus:** International customer engagement and ONT interoperability validation.
+**Project focus:** International customer engagement, ONT–OLT interoperability, and IoT validation using a GX-based OpenWrt Wi-Fi 6 ONT in a Huawei OLT environment.
 
-- Coordinated international customer engagement and technical discussions.
-- Supported IoT validation of ONTs in the customer's existing OLT environment.
-- Collaborated with customer engineers during lab validation.
-- Coordinated follow-up discussions and planning for the next project phase.
+- Coordinated international customer engagement, technical discussions, and lab validation activities.
+- Aligned customer engineers and internal technical stakeholders on validation priorities and follow-up actions.
+- Coordinated ONT–OLT interoperability and IoT validation activities.
+- Tracked technical dependencies, outstanding actions, and next-phase planning.
+
+**Status:** Lab validation completed; next-phase discussions ongoing.
 
 [**📘 Read the International ONT Validation Case Study →**](case-studies/international-ont-iot-validation.md)
 
